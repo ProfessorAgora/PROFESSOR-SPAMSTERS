@@ -2,7 +2,7 @@
   <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
+  <b>𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 𝚂𝙿𝙰𝙼𝚂𝚃𝙴𝚁𝚂</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/MrRizoel/Spambot/fork)
@@ -16,12 +16,12 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/Spambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agora-OS/PROFESSOR-SPAMSTERS)
 
 
 # Support & Updates
-* [Channel](https://t.me/RiZoeLX)
-* [Support Group](https://t.me/DNHcHELL)
+* [Channel](https://t.me/Agorabot_info)
+* [Support Group](https://t.me/AGORA_SPAM_OFFICIAL)
 
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
