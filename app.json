@@ -1,6 +1,6 @@
 {
       "name": "PROFESSOR SPAMSTERS",
-      "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
+      "description": "MOST POWERFUL + STABLE SPAMSTERS",
       "logo": "https://te.legra.ph/file/8f38c2a68e7a4c2e3f6c9.jpg",
       "keywords": [
         "telegram",
@@ -10,8 +10,8 @@
         "SpamBots"
       ],   
   "repository": "https://github.com/Agora-OS/PROFESSOR-SPAMSTERS",
-  "website": "https://github.com/MrRizoel",
-  "success_url": "https://t.me/RiZoeLX",
+  "website": "https://github.com/Agora-OS/PROFESSOR-SPAMSTERS",
+  "success_url": "https://t.me/Agoraswamy_Professor",
       "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -20,7 +20,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "",
+        "value": "https://te.legra.ph/file/8f38c2a68e7a4c2e3f6c9.jpg",
         "required": false
       },
       "API_HASH": {
@@ -80,7 +80,7 @@
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "5090542427",
             "required": true
         },
         "HEROKU_API_KEY": {
