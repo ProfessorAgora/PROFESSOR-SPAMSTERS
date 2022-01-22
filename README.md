@@ -2,7 +2,7 @@
   <img src="https://te.legra.ph/file/8f38c2a68e7a4c2e3f6c9.jpg">
 </p>
 <h1 align="center">
-  <b>𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗦𝗣𝗔𝗠𝗦𝗧𝗘𝗥𝗦</b>
+  <b>𓆩Δ𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗦𝗣𝗔𝗠𝗦𝗧𝗘𝗥𝗦∆𓆪</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/MrRizoel/Spambot/fork)
