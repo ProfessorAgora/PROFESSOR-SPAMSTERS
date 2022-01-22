@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
+  <img src="https://te.legra.ph/file/8f38c2a68e7a4c2e3f6c9.jpg">
 </p>
 <h1 align="center">
   <b>𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 𝚂𝙿𝙰𝙼𝚂𝚃𝙴𝚁𝚂</b>
