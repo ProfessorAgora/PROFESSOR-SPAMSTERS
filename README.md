@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">
   <b>𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗦𝗣𝗔𝗠𝗦𝗧𝗘𝗥𝗦</b>
-</h9>
+</h1>
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/MrRizoel/Spambot/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
