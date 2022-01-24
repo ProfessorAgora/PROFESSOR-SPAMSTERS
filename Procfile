@@ -1,1 +1,1 @@
-Riz: python -m PROFESSOR
+Riz: python -m RiZoeLXSpam
